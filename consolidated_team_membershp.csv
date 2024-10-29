@@ -1,0 +1,501 @@
+employee_id,work_email,preferred_name,team_name,is_owner,owner_ids
+23600,cary.mann@monks.test,Cary Mann,Growth Hackers,FALSE,23487
+,,,,,23582
+,,,,,23593
+,,,,,23511
+,,,,,31409
+,,,,,25398
+,,,,,30520
+,,,,,23638
+,,,,,23644
+,,,,,23590
+,,,,,23621
+,,,,,30175
+,,,,,23612
+,,,,,23505
+,,,,,27052
+,,,,,23498
+,,,,,23553
+,,,,,23581
+,,,,,23483
+,,,,,23618
+,,,,,23585
+,,,,,23557
+50037,dina.bins@monks.test,Dina Bins,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+23326,lou.upton@monks.test,Lou Upton,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+30504,lou.white@monks.test,Lou White,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+25033,loy.jones@monks.test,Loy Jones,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+11535,loy.purdy@monks.test,Loy Purdy,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+21756,luis.mohr@monks.test,Luis Mohr,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20444,lulu.auer@monks.test,Lulu Auer,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+26637,matt.howe@monks.test,Matt Howe,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+21757,mina.koch@monks.test,Mina Koch,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+31135,myah.veum@monks.test,Myah Veum,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20106,nash.wiza@monks.test,Nash Wiza,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+11495,nat.kling@monks.test,Nat Kling,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20431,neal.veum@monks.test,Neal Veum,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+24911,neha.west@monks.test,Neha West,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+26728,nelda.rau@monks.test,Nelda Rau,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+31876,neva.ryan@monks.test,Neva Ryan,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+30189,oda.adams@monks.test,Oda Adams,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+30189,oda.adams@monks.test,Oda Adams,Social Strategies,FALSE,20245
+24846,olga.moen@monks.test,Olga Moen,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+21810,olin.hahn@monks.test,Olin Hahn,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+30072,onie.rath@monks.test,Onie Rath,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+23381,ora.bosco@monks.test,Ora Bosco,Social Strategies,FALSE,20245
+23381,ora.bosco@monks.test,Ora Bosco,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+23381,ora.bosco@monks.test,Ora Bosco,Research Rangers,FALSE,11181
+25567,ora.kiehn@monks.test,Ora Kiehn,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+21647,oral.moen@monks.test,Oral Moen,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+11219,oran.veum@monks.test,Oran Veum,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+11219,oran.veum@monks.test,Oran Veum,Brand Builders,FALSE,11066
+24765,orie.rath@monks.test,Orie Rath,Strategy Specialists,FALSE,11066
+24765,orie.rath@monks.test,Orie Rath,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+24765,orie.rath@monks.test,Orie Rath,Social Strategies,FALSE,20245
+26274,orin.bins@monks.test,Orin Bins,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+21730,orin.mohr@monks.test,Orin Mohr,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+11637,orin.rath@monks.test,Orin Rath,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+11505,ova.bayer@monks.test,Ova Bayer,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+21463,ova.fadel@monks.test,Ova Fadel,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+21461,ova.ratke@monks.test,Ova Ratke,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+23110,raul.hand@monks.test,Raul Hand,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+27770,raul.mraz@monks.test,Raul Mraz,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+23174,ray.haley@monks.test,Ray Haley,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+21727,ray.hauck@monks.test,Ray Hauck,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+23325,ray.lynch@monks.test,Ray Lynch,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+23108,reta.kihn@monks.test,Reta Kihn,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+21559,rick.rath@monks.test,Rick Rath,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+28766,ron.borer@monks.test,Ron Borer,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+28906,ron.tromp@monks.test,Ron Tromp,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+28894,rose.kihn@monks.test,Rose Kihn,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+11800,ross.beer@monks.test,Ross Beer,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+26060,roy.robel@monks.test,Roy Robel,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+26290,roy.stark@monks.test,Roy Stark,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+30054,rudy.mraz@monks.test,Rudy Mraz,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+30054,rudy.mraz@monks.test,Rudy Mraz,Social Strategies,FALSE,20245
+30054,rudy.mraz@monks.test,Rudy Mraz,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+25664,ryann.kub@monks.test,Ryann Kub,Research Rangers,FALSE,11181
+25664,ryann.kub@monks.test,Ryann Kub,Social Strategies,FALSE,20245
+25664,ryann.kub@monks.test,Ryann Kub,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+25664,ryann.kub@monks.test,Ryann Kub,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+24766,sam.johns@monks.test,Sam Johns,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+24766,sam.johns@monks.test,Sam Johns,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+24766,sam.johns@monks.test,Sam Johns,Social Strategies,FALSE,20245
+25277,sarai.toy@monks.test,Sarai Toy,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+25277,sarai.toy@monks.test,Sarai Toy,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+25277,sarai.toy@monks.test,Sarai Toy,Social Strategies,FALSE,20245
+23324,saul.lowe@monks.test,Saul Lowe,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+23324,saul.lowe@monks.test,Saul Lowe,Social Strategies,FALSE,20245
+23324,saul.lowe@monks.test,Saul Lowe,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20746,scot.bode@monks.test,Scot Bode,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20746,scot.bode@monks.test,Scot Bode,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+20746,scot.bode@monks.test,Scot Bode,Social Strategies,FALSE,20245
+29959,sean.lind@monks.test,Sean Lind,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+29959,sean.lind@monks.test,Sean Lind,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+29959,sean.lind@monks.test,Sean Lind,Social Strategies,FALSE,20245
+20380,seth.haag@monks.test,Seth Haag,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20380,seth.haag@monks.test,Seth Haag,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+20380,seth.haag@monks.test,Seth Haag,Research Rangers,FALSE,11181
+20380,seth.haag@monks.test,Seth Haag,Social Strategies,FALSE,20245
+20926,shad.huel@monks.test,Shad Huel,Copywriting Alchemists,FALSE,11066
+20926,shad.huel@monks.test,Shad Huel,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+20926,shad.huel@monks.test,Shad Huel,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+27641,shany.kub@monks.test,Shany Kub,Social Strategies,FALSE,20245
+27641,shany.kub@monks.test,Shany Kub,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+27641,shany.kub@monks.test,Shany Kub,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20528,sid.green@monks.test,Sid Green,Social Strategies,FALSE,20245
+20528,sid.green@monks.test,Sid Green,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20528,sid.green@monks.test,Sid Green,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+11804,sid.o'kon@monks.test,Sid O'Kon,Social Strategies,FALSE,20245
+11804,sid.o'kon@monks.test,Sid O'Kon,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+11804,sid.o'kon@monks.test,Sid O'Kon,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+25447,skye.dare@monks.test,Skye Dare,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+25447,skye.dare@monks.test,Skye Dare,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+25447,skye.dare@monks.test,Skye Dare,Social Strategies,FALSE,20245
+24543,skyla.kub@monks.test,Skyla Kub,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+24543,skyla.kub@monks.test,Skyla Kub,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+24543,skyla.kub@monks.test,Skyla Kub,Social Strategies,FALSE,20245
+20611,stan.beer@monks.test,Stan Beer,Social Strategies,FALSE,20245
+20611,stan.beer@monks.test,Stan Beer,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20611,stan.beer@monks.test,Stan Beer,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+25218,susie.von@monks.test,Susie Von,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+25218,susie.von@monks.test,Susie Von,Social Strategies,FALSE,20245
+25218,susie.von@monks.test,Susie Von,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+21359,tad.ratke@monks.test,Tad Ratke,Social Strategies,FALSE,20245
+21359,tad.ratke@monks.test,Tad Ratke,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+21359,tad.ratke@monks.test,Tad Ratke,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+30186,tatum.rau@monks.test,Tatum Rau,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+30186,tatum.rau@monks.test,Tatum Rau,Social Strategies,FALSE,20245
+30186,tatum.rau@monks.test,Tatum Rau,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+21726,taya.moen@monks.test,Taya Moen,Research Rangers,FALSE,11181
+21726,taya.moen@monks.test,Taya Moen,Social Strategies,FALSE,20245
+21726,taya.moen@monks.test,Taya Moen,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+21726,taya.moen@monks.test,Taya Moen,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+11855,taya.rowe@monks.test,Taya Rowe,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+11855,taya.rowe@monks.test,Taya Rowe,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+11855,taya.rowe@monks.test,Taya Rowe,Social Strategies,FALSE,20245
+11855,taya.rowe@monks.test,Taya Rowe,Research Rangers,FALSE,11181
+24849,tess.huel@monks.test,Tess Huel,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+24849,tess.huel@monks.test,Tess Huel,Social Strategies,FALSE,20245
+24849,tess.huel@monks.test,Tess Huel,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20354,thea.ryan@monks.test,Thea Ryan,Social Strategies,FALSE,20245
+20354,thea.ryan@monks.test,Thea Ryan,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+20354,thea.ryan@monks.test,Thea Ryan,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+11883,tina.koch@monks.test,Tina Koch,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+11883,tina.koch@monks.test,Tina Koch,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+11883,tina.koch@monks.test,Tina Koch,Social Strategies,FALSE,20245
+26059,tod.hayes@monks.test,Tod Hayes,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+24767,tre.pagac@monks.test,Tre Pagac,Insight Innovators,FALSE,11032
+,,,,,11558
+,,,,,11110
+,,,,,11042
+,,,,,11023
+,,,,,20245
+,,,,,20355
+24767,tre.pagac@monks.test,Tre Pagac,Automated Innovators,FALSE,11066
+,,,,,28299
+,,,,,11100
+24767,tre.pagac@monks.test,Tre Pagac,Social Strategies,FALSE,20245
+11559,tyson.kub@monks.test,Tyson Kub,Social Strategies,FALSE,20245

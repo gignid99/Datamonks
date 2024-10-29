@@ -1,0 +1,146 @@
+reference_id,location,region,Country
+LOC_Shanghai,Shanghai,APAC,China
+LOC_Ghana Remote,Ghana Remote,APAC,Ghana
+LOC_Bangalore,Bangalore,APAC,India
+LOC_Mumbai,Mumbai,APAC,India
+LOC_Noida,Noida,APAC,India
+LOC_India Remote,India Remote,APAC,India
+LOC_Tokyo,Tokyo,APAC,Japan
+LOC_Kenya Remote,Kenya Remote,APAC,Kenya
+LOC_Gambia Remote,Gambia Remote,APAC,Gambia
+LOC_Vietnam,Vietnam,APAC,Vietnam
+LOC_Kuala Lumpur,Kuala Lumpur,APAC,Malaysia
+LOC_Pakistan,Pakistan,APAC,Pakistan
+LOC_Thailand,Thailand,APAC,Thailand
+LOC_Brisbane Remote,Brisbane Remote,APAC,Australia
+LOC_Perth Remote,Perth Remote,APAC,Australia
+LOC_Sydney 2,Sydney 2,APAC,Australia
+LOC_Adelaide Remote,Adelaide Remote,APAC,Australia
+LOC_AUS Remote,AUS Remote,APAC,Australia
+LOC_Melbourne 1,Melbourne 1,APAC,Australia
+LOC_Sydney,Sydney,APAC,Australia
+LOC_Sydney 1,Sydney 1,APAC,Australia
+LOC_Melbourne,Melbourne,APAC,Australia
+LOC_Canberra Remote,Canberra Remote,APAC,Australia
+LOC_Melbourne 2,Melbourne 2,APAC,Australia
+LOC_Brisbane,Brisbane,APAC,Australia
+LOC_Hong Kong,Hong Kong,APAC,Hong Kong
+LOC_Jakarta,Jakarta,APAC,Indonesia
+LOC_Singapore,Singapore,APAC,Singapore
+LOC_Wellington,Wellington,APAC,New Zealand
+LOC_Auckland,Auckland,APAC,New Zealand
+LOC_Seoul,Seoul,APAC,"Korea, Republic of"
+LOC_Egypt Remote,Egypt Remote,EMEA,Egypt
+LOC_Italy Remote,Italy Remote,EMEA,Italy
+LOC_Milan,Milan,EMEA,Italy
+LOC_Barcelona Remote,Barcelona Remote,EMEA,Spain
+LOC_Spain Remote PEO,Spain Remote PEO,EMEA,Spain
+LOC_Spain Remote,Spain Remote,EMEA,Spain
+LOC_Madrid,Madrid,EMEA,Spain
+LOC_Paris,Paris,EMEA,France
+LOC_Athens,Athens,EMEA,Greece
+LOC_Oslo,Oslo,EMEA,Norway
+LOC_Poland Remote,Poland Remote,EMEA,Poland
+LOC_Warsaw,Warsaw,EMEA,Poland
+LOC_Wroclaw,Wroclaw,EMEA,Poland
+LOC_Stockholm,Stockholm,EMEA,Sweden
+LOC_Uganda Remote,Uganda Remote,EMEA,Uganda
+LOC_Bahrain Remote,Bahrain Remote,EMEA,Bahrain
+LOC_Brussels,Brussels,EMEA,Belgium
+LOC_Zagreb,Zagreb,EMEA,Croatia
+LOC_Copenhagen,Copenhagen,EMEA,Denmark
+LOC_Helsinki,Helsinki,EMEA,Finland
+LOC_Germany Remote,Germany Remote,EMEA,Germany
+LOC_Berlin,Berlin,EMEA,Germany
+LOC_Düsseldorf,Düsseldorf,EMEA,Germany
+LOC_Stuttgart,Stuttgart,EMEA,Germany
+LOC_München,München,EMEA,Germany
+LOC_Budapest,Budapest,EMEA,Hungary
+LOC_Dublin,Dublin,EMEA,Ireland
+LOC_Moldova,Moldova,EMEA,Moldova
+LOC_Morocco Remote,Morocco Remote,EMEA,Morocco
+LOC_Nigeria Remote,Nigeria Remote,EMEA,Nigeria
+LOC_Bucharest,Bucharest,EMEA,Romania
+LOC_Romania Remote,Romania Remote,EMEA,Romania
+LOC_Kyiv,Kyiv,EMEA,Ukraine
+LOC_Sofia,Sofia,EMEA,Bulgaria
+LOC_Bulgaria Remote,Bulgaria Remote,EMEA,Bulgaria
+LOC_Portugal Remote,Portugal Remote,EMEA,Portugal
+LOC_Lisbon,Lisbon,EMEA,Portugal
+LOC_Bratislava,Bratislava,EMEA,Slovakia
+LOC_Turkey Remote,Turkey Remote,EMEA,Türkiye
+LOC_Zimbabwe Remote,Zimbabwe Remote,EMEA,Zimbabwe
+LOC_Lithuania Remote,Lithuania Remote,EMEA,Lithuania
+LOC_Astana,Astana,EMEA,Kazakhstan
+LOC_Amsterdam,Amsterdam,EMEA,Netherlands
+LOC_Netherlands Remote,Netherlands Remote,EMEA,Netherlands
+LOC_Amsterdam - SHCC,Amsterdam - SHCC,EMEA,Netherlands
+LOC_Hilversum,Hilversum,EMEA,Netherlands
+LOC_Philippines Remote,Philippines Remote,EMEA,Philippines
+LOC_Riyadh,Riyadh,EMEA,Saudi Arabia
+LOC_Montagu,Montagu,EMEA,South Africa
+LOC_Cape Town,Cape Town,EMEA,South Africa
+LOC_Windsor,Windsor,EMEA,United Kingdom
+LOC_London,London,EMEA,United Kingdom
+LOC_UK Remote,UK Remote,EMEA,United Kingdom
+LOC_United Kingdom Remote,United Kingdom Remote,EMEA,United Kingdom
+LOC_UK Remote PEO,UK Remote PEO,EMEA,United Kingdom
+LOC_London - Appold,London - Appold,EMEA,United Kingdom
+LOC_United Kingdom PEO,United Kingdom PEO,EMEA,United Kingdom
+LOC_Moscow,Moscow,EMEA,Russian Federation
+LOC_Dubai,Dubai,EMEA,United Arab Emirates
+LOC_Peru,Peru,LATAM,Peru
+LOC_Peru Remote,Peru Remote,LATAM,Peru
+LOC_Santiago,Santiago,LATAM,Chile
+LOC_Chile Remote,Chile Remote,LATAM,Chile
+LOC_Brazil Remote PEO,Brazil Remote PEO,LATAM,Brazil
+LOC_Brazil Remote,Brazil Remote,LATAM,Brazil
+LOC_Sao Carlos,Sao Carlos,LATAM,Brazil
+LOC_São Paulo,São Paulo,LATAM,Brazil
+LOC_Mexico Remote,Mexico Remote,LATAM,Mexico
+LOC_Mexico City,Mexico City,LATAM,Mexico
+LOC_Panama,Panama,LATAM,Panama
+LOC_Panama Remote,Panama Remote,LATAM,Panama
+LOC_Bolivia Remote,Bolivia Remote,LATAM,Bolivia
+LOC_Ecuador Remote,Ecuador Remote,LATAM,Ecuador
+LOC_Uruguay Remote PEO,Uruguay Remote PEO,LATAM,Uruguay
+LOC_Uruguay Remote,Uruguay Remote,LATAM,Uruguay
+LOC_Montevideo,Montevideo,LATAM,Uruguay
+LOC_Medellin,Medellin,LATAM,Colombia
+LOC_Cali,Cali,LATAM,Colombia
+LOC_Colombia Remote,Colombia Remote,LATAM,Colombia
+LOC_Bogota,Bogota,LATAM,Colombia
+LOC_Barranquilla,Barranquilla,LATAM,Colombia
+LOC_Bogotá,Bogotá,LATAM,Colombia
+LOC_Argentina Remote,Argentina Remote,LATAM,Argentina
+LOC_Buenos Aires,Buenos Aires,LATAM,Argentina
+LOC_Argentina Remote PEO,Argentina Remote PEO,LATAM,Argentina
+LOC_Buenos Aires - Costa Rica,Buenos Aires - Costa Rica,LATAM,Argentina
+LOC_Guatemala Remote,Guatemala Remote,LATAM,Guatemala
+LOC_Nicaragua Remote,Nicaragua Remote,LATAM,Nicaragua
+LOC_Venezuela,Venezuela,LATAM,Venezuela
+LOC_San José,San José,LATAM,Costa Rica
+LOC_Costa Rica Remote,Costa Rica Remote,LATAM,Costa Rica
+LOC_Costa Rica Remote PEO,Costa Rica Remote PEO,LATAM,Costa Rica
+LOC_El Salvador Remote,El Salvador Remote,LATAM,El Salvador
+LOC_Trinidad and Tobago Remote,Trinidad and Tobago Remote,LATAM,Trinidad and Tobago
+LOC_Canada Remote PEO,Canada Remote PEO,NAMER,Canada
+LOC_CAN Remote,CAN Remote,NAMER,Canada
+LOC_Toronto,Toronto,NAMER,Canada
+LOC_Vancouver,Vancouver,NAMER,Canada
+LOC_Canada Remote,Canada Remote,NAMER,Canada
+LOC_New York,New York,NAMER,United States of America
+LOC_Denver,Denver,NAMER,United States of America
+LOC_Sandpoint,Sandpoint,NAMER,United States of America
+LOC_Mountain View,Mountain View,NAMER,United States of America
+LOC_Los Angeles - Abbot Kinney,Los Angeles - Abbot Kinney,NAMER,United States of America
+LOC_Chicago,Chicago,NAMER,United States of America
+LOC_Seattle,Seattle,NAMER,United States of America
+LOC_Los Angeles - Electric Avenue,Los Angeles - Electric Avenue,NAMER,United States of America
+LOC_Salt Lake City,Salt Lake City,NAMER,United States of America
+LOC_US Remote,US Remote,NAMER,United States of America
+LOC_Charlotte,Charlotte,NAMER,United States of America
+LOC_Los Angeles,Los Angeles,NAMER,United States of America
+LOC_Orange County,Orange County,NAMER,United States of America
+LOC_Bellevue,Bellevue,NAMER,United States of America
+LOC_San Francisco,San Francisco,NAMER,United States of America
